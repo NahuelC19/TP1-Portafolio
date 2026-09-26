@@ -1,4 +1,4 @@
-# Portfolio Personal - TP1
+# Portafolio Personal - TP1
 
 Trabajo Práctico Nº 1 desarrollado para la materia de programación. Este proyecto es una aplicación web estática construida con React y Vite, dividida en componentes.
 ## Alumno
