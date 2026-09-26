@@ -8,7 +8,5 @@ Trabajo Práctico Nº 1 desarrollado para la materia de programación. Este proy
 ## Tecnologías Utilizadas
 * React (con Vite)
 * HTML5
-* CSS
-
-## Instalación y Ejecución
-Para correr este proyecto de forma local, sigue estos pasos:
+* CSS3
+* git y github
